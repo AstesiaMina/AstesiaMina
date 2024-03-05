@@ -1,5 +1,5 @@
 +++
-title = 'First_post'
+title = '第二篇'
 date = 2024-03-02T12:04:05+08:00
 draft = false
 description = "Second blog post"
@@ -12,6 +12,8 @@ showTableOfContents = true
 # Title
 1112
 
-$$
-\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}
-$$
+## 字符测试
+这里是测试
+
+### テストですー
+なにどぞ
