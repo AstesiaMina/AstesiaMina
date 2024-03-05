@@ -6,12 +6,13 @@ on:
       - main  # 你的默认分支，可能是main或master
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
-        persist-credentials: false  # 不使用默认的凭据
+        persist-credentials: false
+        fetch-depth: 0  # 获取所有历史，以便用于后续步骤
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -21,8 +22,10 @@ jobs:
     - name: Build
       run: hugo --minify
 
-    - name: Deploy to GitHub Pages
+    - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}  # 使用GITHUB_TOKEN进行部署
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
+        # 如果需要部署到不同的仓库，可以使用以下参数
+        external_repository: AstesiaMina/AstesiaMina.github.io
