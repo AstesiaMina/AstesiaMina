@@ -68,7 +68,7 @@ enableRobotsTXT = true
   avatarSize = "size-l"
 
   # Description to display on homepage
-  description = "ちょっとでもいいから、座って、何か書いてみようよ"
+  description = "可能的話留下一點寫東西的習慣"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"

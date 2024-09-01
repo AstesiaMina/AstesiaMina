@@ -3,21 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-28T16:01:05+08:00</lastmod>
+    <lastmod>2024-03-02T12:04:05+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2024-02-28T16:01:05+08:00</lastmod>
+    <lastmod>2024-03-02T12:04:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-02T12:04:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shasha/</loc>
+    <lastmod>2024-03-02T12:04:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-02T12:04:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/second_post/</loc>
+    <lastmod>2024-03-02T12:04:05+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/first_post/</loc>
     <lastmod>2024-02-28T16:01:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-02-28T16:01:05+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-02-28T16:01:05+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/index-about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/3rd/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>

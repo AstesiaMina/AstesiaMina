@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>個人投資 on Astesia&#39;s Room</title>
+    <link>http://localhost:1313/tags/%E5%80%8B%E4%BA%BA%E6%8A%95%E8%B3%87/</link>
+    <description>Recent content in 個人投資 on Astesia&#39;s Room</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Aug 2024 16:01:05 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%80%8B%E4%BA%BA%E6%8A%95%E8%B3%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M8W3 周記開始/投資起艙</title>
+      <link>http://localhost:1313/posts/2408w3/</link>
+      <pubDate>Tue, 27 Aug 2024 16:01:05 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2408w3/</guid>
+      <description>M8W3 周單位記錄開始/投資起艙 閲讀 實用&#xA;《日本戰後經濟史》 （歷史）&#xA;娛樂&#xA;《黄金の経験値IV》 （ラノベ）&#xA;管理 配艙 在股市分兩個券商賬戶A和B來管理投資。其中，A用來長期投資增值，B用來處理個股和短綫個股買賣。&#xA;券商目前采用IBKR做長綫，長橋LongBridge做短綫。&#xA;在參考相關書籍，博客，youtuber后，目前配艙方案如下。&#xA;A A倉采取定期注資，設置定投任務的策略。&#xA;證券 配比 類型 標的 策略 VOO 20% 證券ETF 追蹤S&amp;amp;P500 月度定投 IWY 20% 證券ETF 追蹤Russell T200 月度定投 MOAT 20% 證券ETF 追蹤晨星護城河指數 月度定投 PFF 20% 證券ETF 優先股股息ETF 月度定投 AGG 20% 債券ETF 追蹤美債基本指數 月度定投 思路&#xA;總體上采用 股票：債券——60：40 的配布，在此基礎上將一半的債券改爲優先股。采取較激進的配置。&#xA;VOO：&#xA;追蹤S&amp;amp;P500指數投資，作爲投資基本面使用。&#xA;出於長期持有的預期，選擇低管理費的VOO代替SPY。而比起其他一些等額配艙的ETF，簡單跟隨指數相對更加省心一點。&#xA;IWY：&#xA;IWY全稱iShares Russell Top 200 Growth ETF，由BlackRock發行。&#xA;該ETF追蹤Russell Top 200 Growth指數進行配艙。Russell Top 200 Growth指數是從Russell 3000指數中選取市值最高的200家企業，这些企業一般認爲是美國市場上規模最大的企業。之後則進一步根據特定的成長性指標來做二次篩選，包含盈利增長、銷售增長、股本回報，現金流情況等指標。最後采取市值加權法計算指標。&#xA;一般來説，成長型股票市值偏高，但也具有較高的資本增長潛力。投資該類股票標的以尋求資本增長爲主。Russell指數每年6月會有重組維護，包含優勝劣汰機制保證追蹤效果。</description>
+    </item>
+  </channel>
+</rss>
